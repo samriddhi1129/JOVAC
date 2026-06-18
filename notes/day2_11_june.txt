@@ -1,0 +1,11 @@
+SHIVAM PAL
+
+1.
+frontend
+backend
+database
+devops and cloud
+ 
+2.git is version control system to track changes is done by which user
+
+

@@ -1,0 +1,7 @@
+1. what is formatting tag?
+2. priority of inline, internal, external [inline> internal, external]
+3. internal or external me priority aise decide hota h ki agr humne external ki link <link style =""> yeh pehle likha toh external or agr internal css pehle likhi toh vo apply pehle hogi
+
+4. internal css humesha key value ki form me likhenge
+5. box model in css
+6. margin, paddding, stcky, fixed position, relataive, CSS positions
